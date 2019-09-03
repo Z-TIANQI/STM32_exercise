@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:/竞赛/电子设计大赛/练习/系统时钟配置函数/Libraries/CMSIS",
+                "D:/竞赛/电子设计大赛/练习/系统时钟配置函数/Libraries/STM32F10x_StdPeriph_Driver/inc",
+                "D:/竞赛/电子设计大赛/练习/系统时钟配置函数/User",
+                "D:/竞赛/电子设计大赛/练习/系统时钟配置函数/User/LED",
+                "D:/竞赛/电子设计大赛/练习/系统时钟配置函数/User/RCC"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.15063.0",
+            "compilerPath": "C:/Program Files (x86)/vs2017/VC/Tools/MSVC/14.10.25017/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
